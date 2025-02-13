@@ -1,10 +1,8 @@
-import PdfUploader from './PdfUploader';
-import './App.css';
+import PdfUploader from './PdfUploader'
+import './App.css'
 
 function App() {
-  return (
-        <PdfUploader />
-  );
+  return <PdfUploader />
 }
 
-export default App;
+export default App
